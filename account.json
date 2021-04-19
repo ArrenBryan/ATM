@@ -1,0 +1,68 @@
+[
+  {
+    "accountName": "Bryan Azriel Parulian",
+    "accountNumber": "1111111111",
+    "accountPin": "111111",
+    "accountBalance": 1000000
+  },
+  {
+    "accountName": "Mars",
+    "accountNumber": "8788618733",
+    "accountPin": "804582",
+    "accountBalance": 2000000
+  },
+  {
+    "accountName": "Kunkka",
+    "accountNumber": "0081812759408",
+    "accountPin": "140782",
+    "accountBalance": 2000000
+  },
+  {
+    "accountName": "Lion",
+    "accountNumber": "0093156891987",
+    "accountPin": "805491",
+    "accountBalance": 2000000
+  },
+  {
+    "accountName": "Viper",
+    "accountNumber": "2002398005363",
+    "accountPin": "313166",
+    "accountBalance": 2000000
+  },
+  {
+    "accountName": "Omniknight",
+    "accountNumber": "0143495536537",
+    "accountPin": "415081",
+    "accountBalance": 2000000
+  },
+  {
+    "accountName": "Gandalf",
+    "accountNumber": "0164101855748",
+    "accountPin": "228370",
+    "accountBalance": 2000000
+  },
+  {
+    "accountName": "Puck",
+    "accountNumber": "4411187653531",
+    "accountPin": "971238",
+    "accountBalance": 2000000
+  },
+  {
+    "accountName": "Troll",
+    "accountNumber": "0311083985901",
+    "accountPin": "493673",
+    "accountBalance": 2000000
+  },
+  {
+    "accountName": "Sand King",
+    "accountNumber": "1115053472341",
+    "accountPin": "017528",
+    "accountBalance": 2000000
+  },
+  {
+    "accountName": "Grimstroke",
+    "accountNumber": "4265670068160",
+    "accountPin": "638965",
+    "accountBalance": 3000000
+  }
+]
